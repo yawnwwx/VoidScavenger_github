@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Map/_Project/MainMenu/Scene/MainMenu.unity
     guid: 3a74670bbf6d9b542a11aafef818e279
+  - enabled: 1
+    path: Assets/IntroCutscene.unity
+    guid: 90117e45f4b77d84fa00334181a5105e
+  - enabled: 1
+    path: Assets/Map/Scenes/Stage01_CargoDeck_AssetBuild.unity
+    guid: 051d986db8b145b408fbbb065f1b7b90
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

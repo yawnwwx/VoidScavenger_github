@@ -7,7 +7,7 @@ public class MainMenuController : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("Stage01_CargoDeck_AssetBuild");
+    SceneManager.LoadScene("IntroCutscene");
     }
 
     public void OpenSettings()
